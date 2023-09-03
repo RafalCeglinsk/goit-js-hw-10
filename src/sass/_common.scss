@@ -1,11 +1,16 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
 
+body {
+  margin: 20px 20px;
+}
+
 img {
   display: block;
-  float: left;
-  margin: 10px 10 0px 10px;
+  border-radius: 6px;
+  box-shadow: 2px 2px 10px;
+  margin-top: 20px;
 }
-.breed-select {
-  margin-top: 10px;
-  margin-left: 10px;
+
+.cat-info {
+  gap: 30px;
 }
