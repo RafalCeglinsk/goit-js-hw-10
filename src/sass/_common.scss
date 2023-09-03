@@ -1,1 +1,11 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
+
+img {
+  display: block;
+  float: left;
+  margin: 10px 10 0px 10px;
+}
+.breed-select {
+  margin-top: 10px;
+  margin-left: 10px;
+}
